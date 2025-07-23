@@ -20,6 +20,6 @@ This tracker is applicable for the Flyme Auto deployed in the following car bran
 |         | 5F811B06 | Costa Rica | N/A                                                                                                                                                                                                                                     | Y             | N³           | N          | N                        | Y                     |
 | 1.8.0.3 | FFF6979D | China      |                                                                                                                                                                                                                                         |               |              |            |                        |                       |
 
-¹ Not officially available but can be enabled via the engineering (aka secret) menu using the car's phone app.<br>
-² Not officially available but can be enabled via the engineering (aka secret) menu using the car's phone app, however once enabled the setting won’t be persistent upon system shutdown or reset.<br>
+¹ Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app.<br>
+² Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app, however once enabled the setting won’t be persistent upon system shutdown or reset.<br>
 ³ Not officially available but can be enabled via ADB and Headunit Reloaded.<br>
