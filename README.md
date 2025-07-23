@@ -26,7 +26,7 @@ The features or options tracked below are the ones of interest for most users.
 | 1.8.0.3 | FFF6979D | China      |                                                                                                                                                                                                                                         |               |              |            |                        |                       |
 
 ## Notes
-[^1] Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app.<br>
+[^1]: Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app.<br>
 ² Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app, however once enabled the setting won’t be persistent upon system shutdown or reset.<br>
 ³ Not officially available but can be enabled via ADB and Headunit Reloaded.<br>
 
