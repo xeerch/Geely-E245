@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="wHC80aS7HlfiNkMlf-B7EfVU7cCC0YH2h1V3sA64p4c" />
+
 # Geely E245 Software Tracker
 This tracker is applicable for the Flyme Auto deployed in the following car brands and models:
 - Geely EX5
