@@ -18,3 +18,7 @@ This tracker is applicable for the following car brands and models:
 |         | C0CC88A1 | Malaysia   | - Apple CarPlay wired and wireless. - New third party apps: Zoom for Cars, izi.TRAVEL and Vivaldi Browser. - Personalization of the low speed pedestrian warning system sound.                                                          | Y             | N³           |            | N                        | Y                     |
 |         | 5F811B06 | Costa Rica | N/A                                                                                                                                                                                                                                     | Y             | N³           | N          | N                        | Y                     |
 | 1.8.0.3 | FFF6979D | China      |                                                                                                                                                                                                                                         |               |              |            |                        |                       |
+
+¹ Not officially available but can be enabled via the engineering (aka secret) menu using the car's phone app.
+² Not officially available but can be enabled via the engineering (aka secret) menu using the car's phone app, however once enabled the setting won’t be persistent upon system shutdown or reset.
+³ Not officially available but can be enabled via ADB and Headunit Reloaded.
