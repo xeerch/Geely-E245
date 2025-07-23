@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="wHC80aS7HlfiNkMlf-B7EfVU7cCC0YH2h1V3sA64p4c" />
+<meta name="google-site-verification" content="-9b3y9kViZZQGNiyzvWEloW86rIF0yTpjKZksX0O3mY" />
 
 # Geely E245 Software Tracker
 This tracker is applicable for the Flyme Auto deployed in the following car brands and models:
@@ -22,7 +22,7 @@ The features or options tracked below are the ones of interest for most users.
 | 1.1.5   |          | Australia  | [Available](/1.1.5_AUS.md) |               | N³           |            |                        | N                     |
 |         | 9AFB221B | Malaysia   |                                                                                                                                                                                                                                         |               | N³           |            |                        | N                     |
 |         | 24F4D77A | Costa Rica | Unknown                                                                                                                                                                                                                                     | N²            | N³           | N          | N                        | N                     |
-| 1.1.6   |          | Australia  |                                                                                                                                                                                                                                         | Y             | N³           |            |                        |                       |
+| 1.1.6   |          | Australia  |                                                                                                                                                                                                                                         | ?             | N³           |            |                        |                       |
 |         | C0CC88A1 | Malaysia   | [Available](/1.1.6_C0CC88A1_MYS.md)                                                          | Y             | N³           | N          | N                        | Y                     |
 |         | 5F811B06 | Costa Rica | Unknown                                                                                                                                                                                                                                     | Y             | N³           | N          | N                        | Y                     |
 | 1.8.0.3 | FFF6979D | China      |                                                                                                                                                                                                                                         |               |              |            |                        |                       |
@@ -30,6 +30,6 @@ The features or options tracked below are the ones of interest for most users.
 ## Notes
 ¹ Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app.<br>
 ² Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app, however once enabled the setting won’t be persistent upon system shutdown or reset.<br>
-³ Not officially available but can be enabled via ADB and Headunit Reloaded.<br>
+³ Not officially available yet, but can be enabled via adb and Headunit Reloaded.<br>
 
 :warning: If you have [adb](https://developer.android.com/tools/adb) access and don't want to lose it, it is highly recommended to install [Geely EX5 Helper](https://eucalyptus-software-geely-ex5-mods.pages.dev/app-library?fbclid=IwY2xjawLt4rdleHRuA2FlbQIxMABicmlkETF5Zk9VaUhaMWljZ0wyTTI4AR4lZdZsNj7IQlUqDdamVBG2P3U6WChVTcrqTEsuYVpcr3UY5KDUiwF8V3x00g_aem_Ur9yQGfYOTxURHPlcOCHzg) before upgrading your car's software.
