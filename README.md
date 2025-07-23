@@ -23,6 +23,9 @@ The features tracked are the ones particularly important for most users.
 |         | 5F811B06 | Costa Rica | N/A                                                                                                                                                                                                                                     | Y             | N³           | N          | N                        | Y                     |
 | 1.8.0.3 | FFF6979D | China      |                                                                                                                                                                                                                                         |               |              |            |                        |                       |
 
+## Notes
 ¹ Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app.<br>
 ² Not officially available but can be enabled via the engineering menu (aka secret menu) using the car's phone app, however once enabled the setting won’t be persistent upon system shutdown or reset.<br>
 ³ Not officially available but can be enabled via ADB and Headunit Reloaded.<br>
+
+If you have [ADB](https://developer.android.com/tools/adb) access and don't want to lose it, it is highly recommended to install [Geely EX5 Helper](https://eucalyptus-software-geely-ex5-mods.pages.dev/app-library?fbclid=IwY2xjawLt4rdleHRuA2FlbQIxMABicmlkETF5Zk9VaUhaMWljZ0wyTTI4AR4lZdZsNj7IQlUqDdamVBG2P3U6WChVTcrqTEsuYVpcr3UY5KDUiwF8V3x00g_aem_Ur9yQGfYOTxURHPlcOCHzg) before upgrading your car's software.
