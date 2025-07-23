@@ -1,4 +1,7 @@
 # Geely E245 Software Tracker
+This tracker is applicable for the following car brands and models:
+- Geely EX5
+- Proton eMas 7
 
 | Version | Build    | Country    | Release Notes                                                                                                                                                                                                                           | Apple CarPlay | Android Auto | ADB Access | CarbitLink while Driving | Selectable AVAS Sound |
 |---------|----------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------|------------|--------------------------|-----------------------|
