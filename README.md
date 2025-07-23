@@ -1,7 +1,8 @@
 # Geely E245 Software Tracker
-This tracker is applicable for the following car brands and models:
+This tracker is applicable for the Flyme Auto deployed in the following car brands and models:
 - Geely EX5
 - Proton eMas 7
+- Geely Galaxy E5
 
 | Version | Build    | Country    | Release Notes                                                                                                                                                                                                                           | Apple CarPlay | Android Auto | ADB Access | CarbitLink while Driving | Selectable AVAS Sound |
 |---------|----------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------|------------|--------------------------|-----------------------|
