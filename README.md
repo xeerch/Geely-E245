@@ -4,8 +4,10 @@ This tracker is applicable for the Flyme Auto deployed in the following car bran
 - Proton eMas 7
 - Geely Galaxy E5
 
-This is intended to become a centralized repository to understand the evolution of the DHU and the Flyme Auto software, and keep track of the release notes for each minor or major release.
-The features tracked are the ones particularly important for most users.
+This is intended to become a centralized repository to understand the evolution of the DHU and the Flyme Auto software, and keep track of the release notes for each minor or major releases.
+Vehicle applications (Spotify, Energy, Phone, etc.) have their own versions too, based on user's experience, it is possible for two cars to have the same Flyme Auto version installed yet, different versions of car applications. Tracking such variants of software bundles is more complicated and not included in this documentation repository.
+
+The features or options tracked below are the ones of interest for most users.
 
 | Version | Build    | Country    | Release Notes                                                                                                                                                                                                                           | Apple CarPlay | Android Auto | ADB Access | CarbitLink while Driving | Selectable AVAS Sound |
 |---------|----------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------|------------|--------------------------|-----------------------|
