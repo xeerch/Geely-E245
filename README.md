@@ -1,10 +1,12 @@
-# Geely E245 - Flyme Auto Release Registry
+# Geely Auto E245 - Flyme Auto Release Registry
 
-This registry applies to the Flyme Auto system deployed in the following car brands and models:
+This registry applies to the [Flyme Auto](https://www.flymeauto.com/) system developed by Meizu and deployed in the cars marketed as:
 
 - Geely EX5
 - Proton eMas 7
 - Geely Galaxy E5
+
+The brands and models above refer to the same car with code [E245](https://en.wikipedia.org/wiki/Geely_Galaxy_E5) manufactured by Geely Auto.
 
 ## Purpose
 
@@ -12,11 +14,13 @@ The purpose of this register is to serve as a centralized repository for underst
 
 ## Limitations
 
-- This registry is built based on user reports since Geely doesn't provide direct guidance or information about their builds and roadmap.
+- This registry is built based on user reports since Geely doesn't provide direct guidance or information about their releases and roadmap.
 - Vehicle applications (such as Spotify, Energy, Phone, etc.) have their own versions. Based on user experience, it is possible for two cars to have the same Flyme Auto version installed but different versions of car applications. Tracking such variants of software bundles is more complex and is not included in this documentation repository.
 - The car has different upgradable modules, including the underlying Android Automotive OS, this registry focuses on Flyme Auto (Flyme OS), which is the one users interact with.
 - Dealerships in certain countries have visibility over upcoming features. Others are operating with little to no information al all.
-- It has been reported that Geely releases frequent builds, however, OTA updates are controlled by the dealerships on each country and not pushed to users frequently. This should simplify the version landscape deployed across the fleet in the future, but for now any data available will be captured even if it is partial.
+- It has been reported that Geely releases frequent builds, however, Over-the-Air (OTA) updates are controlled by the dealerships on each country and not pushed to cars frequently. This should simplify the version landscape deployed across the fleet in the future, but for now any data available will be captured even if it is partial.
+
+## Release Registry
 
 The features or options tracked below are those of interest to most users:
 
