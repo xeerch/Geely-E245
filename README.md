@@ -36,7 +36,7 @@ The features or options tracked below are those of interest to most users:
 | 1.1.5   |          | Australia  | [Available](/Release-Notes/1.1.5_AUS.md)          |               | N³          |            |                          | N⁵                |                         |
 |         | 9AFB221B | Malaysia   | Unknown                                           |               | N³          |            |                          | N                  |                         |
 |         | 24F4D77A | Costa Rica | Unknown                                           | N⁴           | N³          | N          | N                        | N                  | N                       |
-| 1.1.6   | C0CC88A1 | Malaysia   | [Available](/Release-Notes/1.1.6_C0CC88A1_MYS.md) | Y             | N³          | N          | N                        | Y                  |                         |
+| 1.1.6   | C0CC88A1 | Malaysia   | [Available](/Release-Notes/1.1.6_C0CC88A1_MYS.md) | Y             | N³          | N          | N                        | Y                  | Y                       |
 |         | 5F811B06 | Costa Rica | Unknown                                           | Y             | N³          | N          | N                        | Y                  | Y                       |
 | 1.8.0.3 | FFF6979D | China      | Unknown                                           |               |              |            |                          |                    |                         |
 
