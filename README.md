@@ -33,12 +33,12 @@ The features or options tracked below are those of interest to most users:
 | 1.1.2   | D513BF5F | Australia  | Unknown                                           | N¹           | N            |            |                          |                    |                         | Y             |
 | 1.1.3   | 60F75E77 | Costa Rica | Unknown                                           | N¹           | N            | N          | N⁶                      | N                  | N                       | N             |
 | 1.1.4   | 3B7B61D8 | Malaysia   | [Available](/Release-Notes/1.1.4_3B7B61D8_MYS.md) |               | N            |            | Y                        | N                  |                         | Y             |
-| 1.1.5   |          | Australia  | [Available](/Release-Notes/1.1.5_AUS.md)          |               | N⁷          |            |                          | N⁵                |                         | Y             |
-|         | 9AFB221B | Malaysia   | Unknown                                           |               | N⁷          |            |                          | N                  |                         | Y             |
+| 1.1.5   |          | Australia  | [Available](/Release-Notes/1.1.5_AUS.md)          |               | N⁷³        |            |                          | N⁵                |                         | Y             |
+|         | 9AFB221B | Malaysia   | Unknown                                           |               | N⁷³        |            |                          | N                  |                         | Y             |
 |         | 24F4D77A | Costa Rica | Unknown                                           | N⁴           | N⁷³        | N⁷        | N                        | N                  | N                       | N             |
 | 1.1.6   | C0CC88A1 | Malaysia   | [Available](/Release-Notes/1.1.6_C0CC88A1_MYS.md) | Y             | N⁷³        | N⁷        | N                        | Y                  | Y                       | Y             |
 |         | 5F811B06 | Costa Rica | [Available](/Release-Notes/1.1.6_5F811B06_CRC.md) | Y             | N⁷³        | N⁷        | N                        | Y                  | Y                       | N             |
-|         | BD975E1D | Brazil     | Unknown                                           | Y             | N            | N⁷        | N                        | Y                  | Y                       | Y             |
+|         | BD975E1D | Brazil     | Unknown                                           | Y             | N            | N          | N                        | Y                  | Y                       | Y             |
 | 1.1.7   | A24B278D | Costa Rica | [Available](/Release-Notes/1.1.7_A24B278D_CRC.md) | Y             | N⁷³        | N          | N                        | Y                  | Y                       | N             |
 | 1.8.0.3 | FFF6979D | China      | Unknown                                           |               |              |            |                          |                    |                         | Y             |
 
