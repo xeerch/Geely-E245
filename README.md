@@ -26,12 +26,12 @@ The features or options tracked below are those of interest to most users:
 
 
 | Version | Build    | Country    | Release Notes                                     | Apple CarPlay | Android Auto | adb Access | CarbitLink while Driving | AVAS Sound Options | AI Box / Dongle Support | User Profiles |
-| --------- | ---------- | ------------ | --------------------------------------------------- | --------------- | -------------- | ------------ | -------------------------- | -------------------- | :------------------------ | :-------------- |
+| :-------- | ---------- | ------------ | --------------------------------------------------- | --------------- | -------------- | ------------ | -------------------------- | -------------------- | :------------------------ | :-------------- |
 | 1.1.0   | -        | Australia  | Unknown                                           | N¹           | N³          | Y          | Y                        | N                  |                         | Y             |
 |         | -        | Malaysia   | Unknown                                           | N¹           | N³          | Y          | Y                        | N                  |                         | Y             |
 |         | -        | Costa Rica | Unknown                                           | N¹           | N³          | Y          | Y                        | N                  | N                       | N             |
 | 1.1.2   | D513BF5F | Australia  | Unknown                                           | N¹           | N            |            |                          |                    |                         | Y             |
-| 1.1.3   | 60F75E77 | Costa Rica | Unknown                                           | N¹           | N            | N          | N⁶                      | N                  | N                       | N             |
+| 1.1.3   | 60F75E77 | Costa Rica | Unknown                                           | N²           | N            | N          | N⁶                      | N                  | N                       | N             |
 | 1.1.4   | 3B7B61D8 | Malaysia   | [Available](/Release-Notes/1.1.4_3B7B61D8_MYS.md) |               | N            |            | Y                        | N                  |                         | Y             |
 | 1.1.5   |          | Australia  | [Available](/Release-Notes/1.1.5_AUS.md)          |               | N⁷³        |            |                          | N⁵                |                         | Y             |
 |         | 9AFB221B | Malaysia   | Unknown                                           |               | N⁷³        |            |                          | N                  |                         | Y             |
@@ -41,8 +41,9 @@ The features or options tracked below are those of interest to most users:
 |         | BD975E1D | Brazil     | Unknown                                           | Y             | N            | N⁸        | N                        | Y                  | Y                       | Y             |
 | 1.1.7   | A24B278D | Costa Rica | [Available](/Release-Notes/1.1.7_A24B278D_CRC.md) | Y             | N⁷³        | N⁸        | N                        | Y                  | Y                       | N             |
 |         |          | Australia  | [Available](/Release-Notes/1.1.7_AUS.md)          | Y             | N⁷³        | N⁸        | N                        | Y                  | Y                       | Y             |
-| 1.1.8   | F7FF3711 | Costa Rica | [Available](/Release-Notes/1.1.8_F7FF3711_CRC.md)                                 | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | N             |
-|         | F7FF3711 | Australia  | Unknown                                           | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | Y             |
+| 1.1.8   | F7FF3711 | Costa Rica | [Available](/Release-Notes/1.1.8_F7FF3711_CRC.md) | Y             | N⁷³        | N⁸        | Y                        | N                  | Y                       | N             |
+|         | 5CC38A72 | Australia  | Unknown                                           | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | Y             |
+|         |          | Malaysia   | [Available](/Release-Notes/1.1.8_MYS.md)          | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | Y             |
 | 1.8.0.3 | FFF6979D | China      | Unknown                                           |               |              |            |                          |                    |                         | Y             |
 
 If cells in columns 2 to 11 are empty, it means the data is missing. If you have details to add, feel free to modify and create a Pull request.
