@@ -44,6 +44,7 @@ The features or options tracked below are those of interest to most users:
 | 1.1.8   | F7FF3711 | Costa Rica | [Available](/Release-Notes/1.1.8_F7FF3711_CRC.md) | Y             | N⁷³        | N⁸        | Y                        | N                  | Y                       | N             |
 |         | 5CC38A72 | Australia  | Unknown                                           | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | Y             |
 |         |          | Malaysia   | [Available](/Release-Notes/1.1.8_MYS.md)          | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | Y             |
+| 1.1.9   |          | Malaysia   | [Available](/Release-Notes/1.1.9_MYS.md)                                         | Y             | N⁷³        | N⁸        | Y                        |                    |                         | Y             |
 | 1.8.0.3 | FFF6979D | China      | Unknown                                           |               |              |            |                          |                    |                         | Y             |
 
 If cells in columns 2 to 11 are empty, it means the data is missing. If you have details to add, feel free to modify and create a Pull request.
