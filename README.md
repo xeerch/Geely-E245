@@ -44,16 +44,19 @@ The features or options tracked below are those of interest to most users:
 | 1.1.8   | F7FF3711 | Costa Rica | [Available](/Release-Notes/1.1.8_F7FF3711_CRC.md) | Y             | N⁷³        | N⁸        | Y                        | N                  | Y                       | N             |
 |         | 5CC38A72 | Australia  | Unknown                                           | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | Y             |
 |         |          | Malaysia   | [Available](/Release-Notes/1.1.8_MYS.md)          | Y             | N⁷³        | N⁸        | Y                        | Y                  | Y                       | Y             |
-| 1.1.9   |          | Malaysia   | [Available](/Release-Notes/1.1.9_MYS.md)                                         | Y             | N⁷³        | N⁸        | Y                        |                    |                         | Y             |
+| 1.1.9   |          | Malaysia   | [Available](/Release-Notes/1.1.9_MYS.md)          | Y             | N⁷³        | N⁸        | Y                        |                    |                         | Y             |
+| 1.2.0   | 5244     | Costa Rica | [Available](/Release-Notes/1.2.0_5244_CRC.md)     | Y             | Y            | N⁸        | N                        | Y                  | Y                       | N             |
+|         |          | Australia  | [Available](/Release-Notes/1.2.0_AUS.md)          | Y             | Y            | N⁸        | N                        | Y                  | Y                       | Y             |
+|         |          | Malaysia   | [Available](/Release-Notes/1.2.0_MYS.md)                                         | Y             | Y            | N⁸        | N                        | Y                  | Y                       | Y             |
 | 1.8.0.3 | FFF6979D | China      | Unknown                                           |               |              |            |                          |                    |                         | Y             |
 
 If cells in columns 2 to 11 are empty, it means the data is missing. If you have details to add, feel free to modify and create a Pull request.
 
 ## Notes
 
-¹ Not officially available but can be enabled through the engineering menu (aka secret menu) using the car's phone application.<br>
-² Not officially available but can be enabled through the engineering menu (aka secret menu) using the car's phone application. However, once enabled, the setting will not persist after a system shutdown or reset.<br>
-³ Not officially available yet, but can be enabled through adb and Headunit Reloaded.<br>
+¹ Wasn't officially available but could be enabled through the engineering menu (aka secret menu) using the car's phone application.<br>
+² Wasn't officially available but could be enabled through the engineering menu (aka secret menu) using the car's phone application. However, once enabled, the setting will not persist after a system shutdown or reset.<br>
+³ Wasn't officially available, but could be enabled through adb and Headunit Reloaded.<br>
 ⁴ Some users got a build installed by the dealership with Apple CarPlay enabled by default.<br>
 ⁵ AVAS sound cannot be customized but it has a new tone, different from the typical "ice cream truck".<br>
 ⁶ Version shipped from factory allows it, version installed by the dealership doesn't.<br>
